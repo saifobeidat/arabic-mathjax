@@ -1,4 +1,4 @@
-alert('Hi From github')
+console.log('Hi From github')
 window.MathJax = {
     jax: ["input/TeX", "output/HTML-CSS"],
     'HTML-CSS': {
