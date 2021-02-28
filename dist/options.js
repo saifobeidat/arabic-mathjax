@@ -1,3 +1,4 @@
+alert('Hi From github')
 window.MathJax = {
     jax: ["input/TeX", "output/HTML-CSS"],
     'HTML-CSS': {
